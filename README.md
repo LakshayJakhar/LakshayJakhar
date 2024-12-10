@@ -5,9 +5,8 @@
 ### 🔍 **What I Do**:
 - 💻 **.NET Development**: Build dynamic and scalable applications with **C#** and the **.NET Framework**.  
 - 🌐 **Web Development**: Front-end solutions using **HTML5**, **CSS3**, and **JavaScript**.  
-- 🐍 **Backend Automation**: Write scripts in **Python** for process automation and data handling.  
+- 🐍 **Backend Automation**: Write scripts in **C#** for process automation and data handling.  
 - 🔧 **Database Management**: Structure and query data with **SQL** and relational databases.  
-- 🎨 **UI/UX Design**: Create clean and engaging user interfaces using **Figma** and **Adobe Creative Suite**.  
 - 🔍 **Version Control**: Efficient collaboration and project management with **Git/GitHub**.
 
 💡 I combine a passion for programming with a problem-solving mindset to deliver quality software solutions.
