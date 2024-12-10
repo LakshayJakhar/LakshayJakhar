@@ -46,7 +46,8 @@
   <a href="https://www.linkedin.com/in/lakshay-jakhar-326b1b2b0"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 </p>
 
-### 🌍 **My Site**:
+### 🌍 **My Projects Link**:
 <p align="left" style="font-size: 24px; font-weight: bold; color: #4A90E2; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">
-  <a href="https://lakshayjakhar.com" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">LakshayJakhar.COM</a>
+  <a href="[https://lakshayjakhar.com](https://haverproject1.azurewebsites.net/)" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">HaverProject</a>
+  <a href="[[https://lakshayjakhar.com](https://haverproject1.azurewebsites.net/)](https://cateringmanagement2024.azurewebsites.net/)" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">CateringManagement</a>
 </p>
