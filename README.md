@@ -1,71 +1,52 @@
 # 👋 Hey, I'm Lakshay Jakhar!
 
-🚀 **Developer & Designer** blending **Python**, **Web Development**, and **Graphic Design** to create seamless, functional, and visually appealing digital solutions. I specialize in:
+🚀 **Full-Stack Developer** specializing in **.NET** and **C#** to build scalable, efficient, and user-friendly applications. I excel at developing robust software solutions with a focus on performance and clean design.
 
-- 🐍 **Python** for automation, backend development, and scripting  
-- 🌐 **Web Development**: **HTML5**, **CSS3**, **JavaScript**, and frameworks like **FastHTML**  
-- 🤖 **Automation** with **Selenium** for web testing and task automation  
-- 🎨 **Graphic Design** using **Figma** and various Adobe tools  
-- 🔧 **Version Control** with **Git/GitHub**  
-- 🎮 **Pixel Art** & **Motion Graphics** for unique branding  
+### 🔍 **What I Do**:
+- 💻 **.NET Development**: Build dynamic and scalable applications with **C#** and the **.NET Framework**.  
+- 🌐 **Web Development**: Front-end solutions using **HTML5**, **CSS3**, and **JavaScript**.  
+- 🐍 **Backend Automation**: Write scripts in **Python** for process automation and data handling.  
+- 🔧 **Database Management**: Structure and query data with **SQL** and relational databases.  
+- 🎨 **UI/UX Design**: Create clean and engaging user interfaces using **Figma** and **Adobe Creative Suite**.  
+- 🔍 **Version Control**: Efficient collaboration and project management with **Git/GitHub**.
 
-💡 I'm passionate about tech, design, and constantly learning new ways to innovate.
+💡 I combine a passion for programming with a problem-solving mindset to deliver quality software solutions.
 
 ---
 
-### 🔧 **Tech Stack**:
+### 🛠️ **Tech Stack**:
 
-#### 💻 Programming Languages:
+#### 💻 **Languages**:
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 </p>
 
-#### ⚙️ Frameworks & Tools:
+#### ⚙️ **Frameworks & Tools**:
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
-#### ☁️ Cloud Platforms & Databases:
+#### 💾 **Databases**:
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" style="border-radius: 0;" />
-</p>
-
-#### 🤖 AI & Machine Learning:
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" style="border-radius: 0;" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" width="40" height="40" style="border-radius: 0;" />
-</p>
-
-#### 🖥️ Operating Systems:
-<p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40" style="border-radius: 0;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" />
 </p>
 
 ---
 
 ### 📫 **Contact Me**:
 <p align="left">
-  <a href="https://www.instagram.com/lakshay.2077"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" width="40" height="40" style="border-radius: 0;" /></a>
-  <a href="mailto:lakshayjakhar9399@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" style="border-radius: 0;" /></a>
-  <a href="https://www.linkedin.com/in/lakshayjakhar"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" style="border-radius: 0;" /></a>
-  <a href="https://www.upwork.com/freelancers/~0169f904a7f2b3fed5"><img src="https://www.svgrepo.com/show/331630/upwork.svg" width="40" height="40" style="border-radius: 0;" /></a>
+  <a href="mailto:lakshayjakhar880@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/lakshay-jakhar-326b1b2b0"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
 </p>
 
 ### 🌍 **My Site**:
-
 <p align="left" style="font-size: 24px; font-weight: bold; color: #4A90E2; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);">
   <a href="https://lakshayjakhar.com" style="color: #4A90E2; text-decoration: none; transition: color 0.3s;">LakshayJakhar.COM</a>
 </p>
